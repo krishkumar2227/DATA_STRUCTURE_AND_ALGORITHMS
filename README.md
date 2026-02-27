@@ -69,7 +69,7 @@ LeetCode/
 
 ## 📬 Connect With Me
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/krishkumar2227
 
 ---
 
