@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures & Algorithms practice repository.
 
-I am currently a 2nd-year student preparing for internships (June–July) and improving my problem-solving skills using Python.
+I am currently a 2nd-year student preparing for internships,placements and improving my problem-solving skills using Python.
 
 ---
 
