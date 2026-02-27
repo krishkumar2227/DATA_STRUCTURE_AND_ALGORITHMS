@@ -21,16 +21,6 @@ I am currently a 2nd-year student preparing for internships (June–July) and im
 
 ---
 
-## 📂 Folder Structure
-
-LeetCode/
-│
-├── Easy/
-├── Medium/
-└── Hard/
-
----
-
 ## 📌 Problems Solved
 
 | # | Problem Name | Difficulty | Status |
@@ -63,7 +53,6 @@ LeetCode/
 
 - Solve daily problems
 - Push consistently on GitHub
-- Crack Internship by June/July 💪🔥
 
 ---
 
@@ -73,4 +62,4 @@ GitHub: https://github.com/krishkumar2227
 
 ---
 
-⭐ If you're also preparing for internships, let's grow together!
+
