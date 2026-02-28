@@ -21,15 +21,6 @@ I am currently a 2nd-year student preparing for internships,placements and impro
 
 ---
 
-## 📌 Problems Solved
-
-| # | Problem Name | Difficulty | Status |
-|---|-------------|------------|--------|
-| 1 | Two Sum | Easy | ✅ |
-| 2 | Median of Two Sorted Arrays | Hard | ✅ |
-
-(More coming soon 🚀)
-
 ---
 
 ## 📈 Progress Tracker
