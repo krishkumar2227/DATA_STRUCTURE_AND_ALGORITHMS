@@ -5,7 +5,7 @@ class solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-
+        
         result = []
         i=0
         j=0  
