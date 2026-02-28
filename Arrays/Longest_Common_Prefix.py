@@ -14,4 +14,4 @@ class Solution(object):
                 if i >=len(word)  or word[i]!=current_char:
                     return prefix
             prefix+=current_char
-        return prefix 
+        return prefix   
