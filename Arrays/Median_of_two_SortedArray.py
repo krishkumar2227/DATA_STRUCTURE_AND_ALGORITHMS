@@ -8,7 +8,7 @@ class solution(object):
 
         result = []
         i=0
-        j=0
+        j=0  
        
         while i < len(nums1) and j < len(nums2):
             if nums1[i]<nums2[j]:
