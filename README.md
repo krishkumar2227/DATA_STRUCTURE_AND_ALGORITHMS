@@ -11,7 +11,7 @@ I am currently a 2nd-year student preparing for internships,placements and impro
 - Master Data Structures & Algorithms
 - Strengthen problem-solving ability
 - Prepare for internship interviews
-- Solve 150+ LeetCode problems before June
+
 
 ---
 
@@ -24,7 +24,7 @@ I am currently a 2nd-year student preparing for internships,placements and impro
 ---
 
 ## 📈 Progress Tracker
-
+- Foundations Questions
 - Arrays
 - Strings
 - Hashing
