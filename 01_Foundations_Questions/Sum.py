@@ -7,4 +7,4 @@ def my_sum(*args):
 print(my_sum(1, 2, 3))        
 print(my_sum(10))            
 print(my_sum())              
-print(my_sum(5, -5, 10, 20))
+print(my_sum(5, -5, 10,20))
